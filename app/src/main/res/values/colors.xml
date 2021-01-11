@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E00000</color>
+    <color name="green_means_go">#015A00</color>
+    <color name="red_means_stop">#6D0000</color>
+    <color name="color_main_activity_toolbar">#00B3C9</color>
+    <color name="color_second_activity_toolbar">#009CE4</color>
+
+</resources>
